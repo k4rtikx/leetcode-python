@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/k4rtikx/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/k4rtikx/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/k4rtikx/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/k4rtikx/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -26,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
