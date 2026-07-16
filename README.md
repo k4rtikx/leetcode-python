@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/k4rtikx/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/k4rtikx/leetcode-python/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/k4rtikx/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/k4rtikx/leetcode-python/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/k4rtikx/leetcode-python/tree/master/0018-4sum) |
+| [0283-move-zeroes](https://github.com/k4rtikx/leetcode-python/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/k4rtikx/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
