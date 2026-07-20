@@ -7,7 +7,7 @@ class Solution:
         # [-4, -1, -1, 0, 1, 2]
         while i<len(nums)-3:
             j=i+1
-                    
+            
             while j<len(nums)-2:
                 k=j+1
                 l=len(nums)-1
