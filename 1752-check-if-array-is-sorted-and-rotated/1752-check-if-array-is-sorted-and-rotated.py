@@ -1,13 +1,3 @@
-# class Solution:
-#     def check(self, nums: List[int]) -> bool:
-#         final=True
-#         for i in range (len(nums)-1):
-#             if nums[i]>nums[(i+1)% n]:
-#                 final=False
-#                 break
-#         return final
-#         #print(final)
-
 class Solution:
     def check(self, nums: List[int]) -> bool:
         count = 0
