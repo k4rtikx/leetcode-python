@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/k4rtikx/leetcode-python/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/k4rtikx/leetcode-python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/k4rtikx/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
