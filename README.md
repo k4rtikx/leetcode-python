@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/k4rtikx/leetcode-python/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtikx/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/k4rtikx/leetcode-python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/k4rtikx/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/k4rtikx/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtikx/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
@@ -84,4 +87,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/k4rtikx/leetcode-python/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
