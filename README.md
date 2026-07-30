@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/k4rtikx/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/k4rtikx/leetcode-python/tree/master/0283-move-zeroes) |
+| [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtikx/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/k4rtikx/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/k4rtikx/leetcode-python/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -116,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/k4rtikx/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
