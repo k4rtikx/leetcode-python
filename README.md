@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/k4rtikx/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtikx/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/k4rtikx/leetcode-python/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/k4rtikx/leetcode-python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/k4rtikx/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtikx/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/k4rtikx/leetcode-python/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/k4rtikx/leetcode-python/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/k4rtikx/leetcode-python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/k4rtikx/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/k4rtikx/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/k4rtikx/leetcode-python/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/k4rtikx/leetcode-python/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/k4rtikx/leetcode-python/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/k4rtikx/leetcode-python/tree/master/0268-missing-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/k4rtikx/leetcode-python/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
