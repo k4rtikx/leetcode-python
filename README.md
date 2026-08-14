@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/k4rtikx/leetcode-python/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/k4rtikx/leetcode-python/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/k4rtikx/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/k4rtikx/leetcode-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/k4rtikx/leetcode-python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/k4rtikx/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/k4rtikx/leetcode-python/tree/master/0054-spiral-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/k4rtikx/leetcode-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/k4rtikx/leetcode-python/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/k4rtikx/leetcode-python/tree/master/0704-binary-search) |
