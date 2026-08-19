@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/k4rtikx/leetcode-python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtikx/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/k4rtikx/leetcode-python/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/k4rtikx/leetcode-python/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/k4rtikx/leetcode-python/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/k4rtikx/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/k4rtikx/leetcode-python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/k4rtikx/leetcode-python/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/k4rtikx/leetcode-python/tree/master/0875-koko-eating-bananas) |
 ## Binary Indexed Tree
 |  |
 | ------- |
