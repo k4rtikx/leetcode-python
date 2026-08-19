@@ -13,6 +13,5 @@ class Solution:
                 ans=mid
                 high=mid-1
             else:
-                if total_hour >h:
-                    low=mid+1
+                low=mid+1
         return ans
