@@ -4,6 +4,8 @@ class Solution:
         high= max(bloomDay)
         answer=-1
         while low <=high:
+            if m * k > len(bloomDay):
+                return -1
             # mid find no of days
             mid=low + ((high-low)//2)
             bouquets=0
@@ -14,9 +16,11 @@ class Solution:
                     if count==k:
                         bouquets+=1
                         count=0
+                        if bouquets == m:
+                            break
                 else:
                     count=0
-            if bouquets>=m:
+            if bouquets==m:
                 answer =mid
                 high= mid-1
             else:
