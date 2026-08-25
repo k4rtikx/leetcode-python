@@ -6,5 +6,3 @@ class Solution:
                 continue 
             else :
                 return k*i
-                break
-        
