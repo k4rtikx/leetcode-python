@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/k4rtikx/leetcode-python/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/k4rtikx/leetcode-python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/k4rtikx/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k4rtikx/leetcode-python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/k4rtikx/leetcode-python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/k4rtikx/leetcode-python/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k4rtikx/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/k4rtikx/leetcode-python/tree/master/1552-magnetic-force-between-two-balls) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k4rtikx/leetcode-python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/k4rtikx/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/k4rtikx/leetcode-python/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/k4rtikx/leetcode-python/tree/master/0410-split-array-largest-sum) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k4rtikx/leetcode-python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
