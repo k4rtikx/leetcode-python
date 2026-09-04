@@ -1,7 +1,7 @@
 class Solution:
     def maxDistance(self, position: List[int], m: int) -> int:
         position=sorted(position)
-        low = 0 
+        low = 1
         high= max(position)
         ans=-1
         while low <=high:
