@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/k4rtikx/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/k4rtikx/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k4rtikx/leetcode-python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/k4rtikx/leetcode-python/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/k4rtikx/leetcode-python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/k4rtikx/leetcode-python/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/k4rtikx/leetcode-python/tree/master/3875-construct-uniform-parity-array-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtikx/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/k4rtikx/leetcode-python/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/k4rtikx/leetcode-python/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/k4rtikx/leetcode-python/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/k4rtikx/leetcode-python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/k4rtikx/leetcode-python/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/k4rtikx/leetcode-python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
