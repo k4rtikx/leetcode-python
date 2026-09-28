@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/k4rtikx/leetcode-python/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/k4rtikx/leetcode-python/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
