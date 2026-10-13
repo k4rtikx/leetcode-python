@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k4rtikx/leetcode-python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/k4rtikx/leetcode-python/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/k4rtikx/leetcode-python/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/k4rtikx/leetcode-python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/k4rtikx/leetcode-python/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/k4rtikx/leetcode-python/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/k4rtikx/leetcode-python/tree/master/1552-magnetic-force-between-two-balls) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k4rtikx/leetcode-python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/k4rtikx/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/k4rtikx/leetcode-python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/k4rtikx/leetcode-python/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/k4rtikx/leetcode-python/tree/master/0410-split-array-largest-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/k4rtikx/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/k4rtikx/leetcode-python/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
